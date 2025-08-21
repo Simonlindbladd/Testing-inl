@@ -25,5 +25,5 @@ En enkel todo-applikation byggd med React och TypeScript.
 ## Testning
 
 - Kör tester: `npm test`
-- Kör tester med coverage: `npm run test:coverage`
+- Kör tester med coverage: `npm run coverage`
 

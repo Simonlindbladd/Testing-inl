@@ -1,6 +1,6 @@
 # Todo App
 
-En enkel todo-applikation byggd med React och TypeScript.
+En enkel todo app byggd med React och Vite.
 
 ## Funktioner
 

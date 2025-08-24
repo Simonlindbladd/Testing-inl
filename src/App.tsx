@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px", maxWidth: "600px", margin: "0 auto" }}>
-      <h1>Min Todo-app</h1>
+      <h1>Todos</h1>
       <AddTodo onAdd={addTodo} />
       <TodoList 
         todos={todos} 
